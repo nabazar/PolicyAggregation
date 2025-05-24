@@ -4,12 +4,6 @@ authors:
 - family-names: "Ab Azar"
   given-names: "Nematollah"
   orcid: "https://orcid.org/0000-0002-8368-9143"
-- family-names: "Karimi"
-  given-names: "Arash"
-  orcid: ""
-- family-names: "Amirfattahi "
-  given-names: "Mohammad"
-  orcid: ""
 title: "Adaptive Confidence-Weighted Policy Aggregation"
 version: 1.0.0
 doi: ""
